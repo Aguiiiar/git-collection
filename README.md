@@ -1,5 +1,3 @@
-## Este repositório Git é a estrutura inicial já com toda a configuração básica de uma das aplicações que aprenderemos a criar ao longo do curso. O nome do app é GitCollection.
-
 ### Rodando a aplicação no seu PC
 
 Faça um clone deste repositório e instale no seu ambiente de desenvolvimento usando o seguinte comando no seu terminal (escolha um diretório apropriado):
